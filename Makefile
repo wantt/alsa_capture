@@ -1,2 +1,4 @@
 main:
-	gcc  test2.c  -lasound -o main
+	gcc  test3.c  -lasound -o main
+clean:
+	rm  -rf main *.o

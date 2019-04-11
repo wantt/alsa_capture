@@ -1,6 +1,6 @@
 # ALSA CAPTURE
 ## usage
-make
+make &&
 ./main hw:2
 
 ## check device
